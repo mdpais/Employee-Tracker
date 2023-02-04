@@ -7,15 +7,15 @@ VALUES ("Marketing"),
 INSERT INTO role (title, salary, department_id)
 VALUES ("Marketing Manager", 80000.00, 1),
 ("HR Manager", 70000.00, 2),
-("Customer Support Manager", 60000.00, 3),
+("CS Manager", 60000.00, 3),
 ("Training Manager", 60000.00, 4),
-("Customer Support Agent", 30000.00, 3),
+("CS Agent", 30000.00, 3),
 ("Marketing Specialist", 50000.00, 1),
 ("Level 2 Agent", 35000.00, 3),
-("Director", 100000.00,);
+("Director", 100000.00, null);
        
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("John", "Doe", 8,)
+VALUES ("John", "Doe", 8, null),
 ("Jeremy", "Clarkson", 1, 1),
 ("Phoebe", "Buffay", 2, 1),
 ("Joseph", "Tribiani", 6, 2),
