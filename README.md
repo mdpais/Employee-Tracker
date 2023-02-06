@@ -12,7 +12,7 @@ The employee tracker lets you manage your employee database consisting of 3 tabl
 
 -[Screenshot](#screenshot)
 
--[Walkthrough Video Link](#walkthrough_video_link)
+-[Walkthrough Video Link](#walkthrough-video-link)
 
 -[License](#license)
   
