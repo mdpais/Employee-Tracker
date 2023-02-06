@@ -10,13 +10,11 @@ The employee tracker lets you manage your employee database consisting of 3 tabl
 
 -[Usage](#usage)
 
+-[Screenshot](#screenshot)
+
+-[Walkthrough Video Link](#walkthrough_video_link)
+
 -[License](#license)
-
--[Contributing](#contributing)
-
--[Tests](#tests)
-
--[Questions](#questions)
   
 ## Installation
   
